@@ -20,6 +20,7 @@ Your Discord user ID
 
 1. Clone the repository
 `git clone https://github.com/michaelocez/shutdownbot.git`
+
 `cd ShutdownBot`
 
 2. Install dependencies
