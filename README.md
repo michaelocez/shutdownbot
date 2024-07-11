@@ -41,7 +41,7 @@ Navigate to the directory containing `shutdownbot.py` and run:
 
 # Start up script
 
-1. Edit `script.vbs` to where you store your executable (`shutdownbot.exe`).
+1. Edit `script.vbs` and change the path to where you store your executable (`shutdownbot.exe`).
 
 2. Move VBScript to Startup Folder
 Using WIN + R and type in `shell:startup`, put `script.vbs` into the StartUp folder.
